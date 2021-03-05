@@ -1,0 +1,32 @@
+body{
+			margin-left: auto;
+			margin-right: auto;
+			margin-top: auto;
+			margin-bottom: auto;
+			background: radial-gradient(at bottom, #FEFFFF, #A7CECC);
+		}
+		.header{
+			background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+			padding: 20px;
+			display: grid;
+			place-items: center;
+		}
+		.info{
+			display: grid;
+			place-items: center;
+		}
+		.title{
+			display: grid;
+			place-items: center;
+		}
+		.content{
+			font: 14pt times-new-roman;
+			padding: 10px;
+		}
+		.footer{
+			background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+			padding: 40px;
+			margin-bottom: auto;
+			display: grid;
+			place-items: center;
+		}
